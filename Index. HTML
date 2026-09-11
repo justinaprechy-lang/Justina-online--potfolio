@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Justina's Portfolio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h1>Hello, I'm Justina 👋</h1>
+
+  <h2>Welcome to My Portfolio</h2>
+
+  <p>
+    I am a hardworking and reliable beginner interested in remote online work.
+    I am building my skills in online surveys, virtual assistance, and digital work.
+  </p>
+
+  <h2>My Skills</h2>
+  <ul>
+    <li>Online Research</li>
+    <li>Data Entry</li>
+    <li>Virtual Assistance</li>
+    <li>Communication</li>
+    <li>Customer Support</li>
+  </ul>
+
+  <h2>Contact Me</h2>
+  <p>WhatsApp: +2347077490331</p>
+
+</body>
+</html>
